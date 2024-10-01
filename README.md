@@ -1,6 +1,6 @@
 # Supply Chain Analysis Dashboard
 
-Project Link: https://app.powerbi.com/view?r=eyJrIjoiM2ZiODhkMDItODVkNy00ZTc4LWI4ZmUtNGJmMGU1YjQ1ODU3IiwidCI6IjBiZThmM2ZhLTk4ZDYtNGU1OC05NTM4LTM4YTc3MGM2ZDMwMSJ9
+Project Link: https://app.powerbi.com/view?r=eyJrIjoiNGRmMmFhNmMtOTg2OS00MzYwLWEyYjQtM2EzOGQxNzQ4MDZlIiwidCI6Ijg5YThkMTViLTFhNjYtNDdiMC05Yzg1LWExNWJiMzE1ZjUzNSJ9
 
 This project is about finding supply chain insights from a csv file with full Dynamic compatibility, including {Sales, Orders, Shipment, Customer & Location) pages that will help us to understand the data in parts and Find Key Insights.
 
